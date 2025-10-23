@@ -1,0 +1,8 @@
+requests
+wikipedia-api
+pyjokes
+SpeechRecognition
+gTTS
+PyAudio
+num2words
+pygame
